@@ -1,0 +1,15 @@
+
+002 TailwindCSS
+https://tailwindcss.com/
+
+002 PurgeCSS
+https://purgecss.com/
+
+004 Tailwind-Configuration
+https://tailwindcss.com/docs/configuration
+
+006 Autoplay-Policy-Changes
+https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
+
+008 Common-Module
+https://angular.io/api/common/CommonModule
