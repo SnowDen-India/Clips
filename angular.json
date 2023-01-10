@@ -75,14 +75,7 @@
               "browserTarget": "clips:build:development"
             }
           },
-          "defaultConfiguration": "development",
-          "options": {
-            "headers": {
-              "Cross-Origin-Opener-Policy":"same-origin",
-              "Cross-Origin-Embedder-Policy":"require-corp"
-             
-            }
-          }
+          "defaultConfiguration": "development"
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
