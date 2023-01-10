@@ -34,7 +34,7 @@
       <!-- Video Editor -->
       <ng-template #uploadFormCtlr>
         <!-- alertMsg -->
-        <app-alert *ngIf="showAlert" [color]="alertColor" crossorigin>
+        <app-alert *ngIf="showAlert" [color]="alertColor">
           <p>{{showMsg}}</p>
           <p *ngIf="showPercantage">{{percentage | percent}}</p>
         </app-alert>
