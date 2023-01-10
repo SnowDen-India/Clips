@@ -27,6 +27,9 @@
                 "glob": "*"
               }
             ],
+            "allowedCommonJsDependencies": [
+              "lodash"
+           ],
             "styles": [
               "src/styles.css"
             ],
