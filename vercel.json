@@ -3,8 +3,8 @@
         {
             "source":"/(.*)",
             "headers":[
-                {"keys":"Cross-Origin-Opener-Policy","value":"same-origin"},
-                {"keys":"Cross-Origin-Embedder-Policy","value":"required-corp"}
+                {"key":"Cross-Origin-Opener-Policy","value":"same-origin"},
+                {"key":"Cross-Origin-Embedder-Policy","value":"required-corp"}
             ]
         }
     ]
